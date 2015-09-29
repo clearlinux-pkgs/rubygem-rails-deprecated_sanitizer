@@ -4,7 +4,7 @@
 #
 Name     : rubygem-rails-deprecated_sanitizer
 Version  : 1.0.3
-Release  : 2
+Release  : 3
 URL      : https://rubygems.org/downloads/rails-deprecated_sanitizer-1.0.3.gem
 Source0  : https://rubygems.org/downloads/rails-deprecated_sanitizer-1.0.3.gem
 Summary  : No detailed summary available
